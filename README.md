@@ -11,3 +11,6 @@
     void SortLengthElements()  
 4. Выводим сформированный массив на экран.
     SortLengthElements();    
+
+    БЛОК СХЕМА ПРОЕКТА:
+    ![Блок схема нашего пректа](BlockShema.jpg)
